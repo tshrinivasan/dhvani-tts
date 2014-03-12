@@ -16226,7 +16226,7 @@ ac_fn_cxx_check_header_mongrel "$LINENO" "gsm/gsm.h" "ac_cv_header_gsm_gsm_h" "$
 if test "x$ac_cv_header_gsm_gsm_h" = xyes; then :
 
 else
-  as_fn_error $? "cannot find zlib header" "$LINENO" 5
+  as_fn_error $? "cannot find gsm speech compressor header" "$LINENO" 5
 fi
 
 
