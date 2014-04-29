@@ -516,7 +516,7 @@ It then outputs the phonetic description.
 
 char *generate_phonetic_script_ta(short *word, int size)
 {
-	char *final, num = NULL;
+	char *final, *num = NULL;
 	int arrsz;
 	int i = 0;
 
